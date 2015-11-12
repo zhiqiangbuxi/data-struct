@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 typedef unsigned int listNode;
 typedef struct _stuctList
 {
